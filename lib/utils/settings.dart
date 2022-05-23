@@ -1,2 +1,3 @@
-const appId = 'TODO';
-const token = 'TODO';
+const appId = '4979f8d24a6b4d6492050e87597590ae';
+const token =
+    '0064979f8d24a6b4d6492050e87597590aeIABksbhY5EkG3gxGLRXePydAZiL9vqy3+YNfDQ1ySSaRDh2pEikAAAAAEADTxV3AEZyMYgEAAQARnIxi';

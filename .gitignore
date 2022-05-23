@@ -37,3 +37,4 @@ doc/api/
 .pub/
 .flutter-plugins
 .flutter-plugins-dependencies
+lib/utils/settings.dart
