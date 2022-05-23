@@ -35,3 +35,5 @@ doc/api/
 # Flutter/Dart/Pub related
 .pub-cache/
 .pub/
+.flutter-plugins
+.flutter-plugins-dependencies
