@@ -91,6 +91,7 @@ class _IndexPageState extends State<IndexPage> {
     if (_channelController.text.isNotEmpty) {
       await _handleCameraAndMic(Permission.camera);
       await _handleCameraAndMic(Permission.microphone);
+      if (!mounted) return;
       await Navigator.push(
         context,
         MaterialPageRoute(

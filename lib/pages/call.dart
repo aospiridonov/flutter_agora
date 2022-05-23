@@ -100,7 +100,7 @@ class _CallPageState extends State<CallPage> {
         },
         firstRemoteVideoFrame: (uid, width, height, elapsed) {
           setState(() {
-            final info = 'First Remote Video: $uid ${width}x${height}';
+            final info = 'First Remote Video: $uid ${width}x$height';
             _infoStrings.add(info);
           });
         },
