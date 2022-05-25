@@ -5,3 +5,4 @@
 *.cmake linguist-detectable=false
 CMakeLists.txt linguist-detectable=false
 *.swift linguist-detectable=false
+*.kt linguist-detectable=false
