@@ -1,5 +1,5 @@
-web/ linguist-detectable=false
-macos/ linguist-detectable=false
-windows/ linguist-detectable=false
-linux/ linguist-detectable=false
-android/ linguist-detectable=false
+web/* export-ignore
+macos/* export-ignore
+windows/* export-ignore
+linux/* export-ignore
+android/* export-ignore
